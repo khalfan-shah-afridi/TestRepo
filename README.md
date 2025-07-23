@@ -1,3 +1,7 @@
-# TestRepo
-testing respository
-this is the first markdown file
+# pharmacy-management
+Pharmacy Management System
+
+Build using pharmacy.cpp (dev-c++)
+
+It's a Simple Command Line Project, 
+In which you can manage and order pharmacy items.
